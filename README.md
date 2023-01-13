@@ -4,4 +4,5 @@ Implementation of different topics of financial analysis such as
 - Calculating the risk of a security or a portfolio (Diversifiable and Non-Diversiable risk)
 - Benifit of Portfolio Diversity 
 - Covariance and correlation
+- Computing drawdown
 - and more
