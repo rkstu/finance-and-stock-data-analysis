@@ -5,4 +5,5 @@ Implementation of different topics of financial analysis such as
 - Benifit of Portfolio Diversity 
 - Covariance and correlation
 - Computing drawdown
+- Markowitz Portolio Optimization
 - and more
